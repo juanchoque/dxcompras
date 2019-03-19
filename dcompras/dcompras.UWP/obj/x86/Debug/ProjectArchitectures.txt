@@ -1,0 +1,1 @@
+D:\developer\appXamarin\dcompras\dcompras\dcompras.UWP\dcompras.UWP.csproj;x86

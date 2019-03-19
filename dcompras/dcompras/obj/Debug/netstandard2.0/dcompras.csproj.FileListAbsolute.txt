@@ -1,0 +1,17 @@
+D:\developer\appXamarin\dcompras\dcompras\dcompras\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\developer\appXamarin\dcompras\dcompras\dcompras\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
+D:\developer\appXamarin\dcompras\dcompras\dcompras\obj\Debug\netstandard2.0\Views\ItemDetailPage.xaml.g.cs
+D:\developer\appXamarin\dcompras\dcompras\dcompras\obj\Debug\netstandard2.0\Views\ItemsPage.xaml.g.cs
+D:\developer\appXamarin\dcompras\dcompras\dcompras\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+D:\developer\appXamarin\dcompras\dcompras\dcompras\obj\Debug\netstandard2.0\Views\MenuPage.xaml.g.cs
+D:\developer\appXamarin\dcompras\dcompras\dcompras\obj\Debug\netstandard2.0\Views\NewItemPage.xaml.g.cs
+D:\developer\appXamarin\dcompras\dcompras\dcompras\obj\Debug\netstandard2.0\dcompras.csproj.CoreCompileInputs.cache
+D:\developer\appXamarin\dcompras\dcompras\dcompras\obj\Debug\netstandard2.0\dcompras.AssemblyInfoInputs.cache
+D:\developer\appXamarin\dcompras\dcompras\dcompras\obj\Debug\netstandard2.0\dcompras.AssemblyInfo.cs
+D:\developer\appXamarin\dcompras\dcompras\dcompras\obj\Debug\netstandard2.0\dcompras.dll
+D:\developer\appXamarin\dcompras\dcompras\dcompras\obj\Debug\netstandard2.0\dcompras.pdb
+D:\developer\appXamarin\dcompras\dcompras\dcompras\obj\Debug\netstandard2.0\dcompras.csprojAssemblyReference.cache
+D:\developer\appXamarin\dcompras\dcompras\dcompras\bin\Debug\netstandard2.0\dcompras.deps.json
+D:\developer\appXamarin\dcompras\dcompras\dcompras\bin\Debug\netstandard2.0\dcompras.dll
+D:\developer\appXamarin\dcompras\dcompras\dcompras\bin\Debug\netstandard2.0\dcompras.pdb
+D:\developer\appXamarin\dcompras\dcompras\dcompras\obj\Debug\netstandard2.0\XamlC.stamp
